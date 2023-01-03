@@ -5,7 +5,7 @@ sonarqubeScanner({
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
 	    'sonar.projectName': 'Node JS Application - Sample',
-	    'sonar.projectKey':'NodeJsLandmarkTechnologies',
+	    'sonar.projectKey':'NodeJsColdEnergyTeck',
 	    'sonar.login': 'ae4e7475f3fbefc000c78201fa36c98c1024b275',
 	    //'sonar.password': 'admin',
             'sonar.projectVersion':'1.0',
